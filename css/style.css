@@ -24,6 +24,7 @@ body {
   line-height: 1.6;
   color: var(--text-dark);
   background-color: var(--bg-white);
+  overflow-x: hidden;
 }
 
 .container {
@@ -384,7 +385,7 @@ body {
   }
 
   .stats-grid,
-  .cards-grid {
+  .cac-ban {
     grid-template-columns: 1fr; /* Chuyển từ 3 cột thành 1 cột dọc trên điện thoại */
   }
 }
