@@ -19,3 +19,5 @@ Thêm CHANGELOG.md và viết nội dung và commit.
 Thêm AI_log.md "lấy mẫu của giảng viên" và hoàn thiện nội dung trong AI_log.
 
 # Bản 6
+
+Thêm docs/ và commit.
