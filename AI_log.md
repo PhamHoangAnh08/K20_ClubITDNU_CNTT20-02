@@ -39,11 +39,10 @@
 
 - Tệp/vị trí đã sửa (không sửa thì ghi rõ): `css/style.css` (dòng 387–390 trong khối `@media (max-width: 768px)`).
 - Nội dung thay đổi hoặc cách xử lý khác: Đổi `.cards-grid` thành `.cac-ban` và thêm `flex-direction: column;` để các thẻ tự xếp dọc trên màn hình dưới 768px.
-- Commit của bản sửa, nếu có: mã commit bản đã sửa f675b17
+- Commit của bản sửa, nếu có: mã commit bản đã sửa 20ddfdd
 - Bản sửa đã deploy: [x] Có [ ] Chưa [ ] Không phát sinh bản sửa
 
-| Nội dung kiểm tra | Trước xử lý | Sau xử lý/thử lại |
-| | |
+| Nội dung kiểm tra | Trước xử lý Sau xử lý/thử lại |
 |
 | Request URL và Status của tài nguyên liên quan | `css/style.css` tải bình thường (Status 200) | `css/style.css` tải bình thường (Status 200) |
 | Giao diện/chức năng trên URL website | Dư khoảng trắng lớn ở lề phải trên mobile | Các cột xếp dọc gọn gàng, hết khoảng trắng tràn lề phải |
